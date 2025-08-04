@@ -33,3 +33,5 @@ Consiste em um sistema de linha de comando em Java que permite ao professor Carl
 git clone https://github.com/seu-usuario/Sistema-Notas-Case-DTI.git
 cd Sistema-Notas-Case-DTI
 javac Aluno.java SistemaNotas.java
+java SistemaNotas
+Entrada de dados João 7 8 6 9 10 80
