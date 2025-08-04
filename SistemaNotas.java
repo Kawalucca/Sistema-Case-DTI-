@@ -1,5 +1,5 @@
 // Sistema de Notas Professor Carlos Case DTI
-
+// Candidato: Kawã Lucca Marques Souza Costa
 import java.util.*;
 
 class Aluno {
@@ -128,3 +128,4 @@ public class SistemaNotas {
         scanner.close();
     }
 }
+
