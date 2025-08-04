@@ -22,9 +22,14 @@ Consiste em um sistema de linha de comando em Java que permite ao professor Carl
 
 ## Como executar o sistema
 
-1. Certifique-se de ter o Java instalado (JDK 8+).
+### Pré-requisitos
+- Java JDK 8 ou superior instalado
+- Terminal ou IDE Java (ex: VSCode, IntelliJ, NetBeans)
 
-2. Compile os arquivos:
+### Instruções
+1. Clone o repositório:
 
 ```bash
+git clone https://github.com/seu-usuario/Sistema-Notas-Case-DTI.git
+cd Sistema-Notas-Case-DTI
 javac Aluno.java SistemaNotas.java
